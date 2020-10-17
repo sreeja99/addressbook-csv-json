@@ -1,0 +1,3 @@
+"ADDRESS","CITY","EMAIL","FIRSTNAME","LASTNAME","PHONENUMBER","STATE","ZIP"
+"hnk","wgl","xyz.abc@gmail.com","sreeja","Godishala","6474781891","telangana","563781"
+"bankcolony","karimnagar","wgl.tlgna@gmail.com","abc","xyz","875833748","telangana","746387"
