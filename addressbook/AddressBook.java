@@ -16,7 +16,7 @@ import com.opencsv.exceptions.CsvRequiredFieldEmptyException;
 import com.opencsv.exceptions.CsvValidationException;
 
 public class AddressBook {
-	public static String ADDRESS_BOOK_CSV="C:\\Users\\HP\\.eclipse\\org.eclipse.tips.state\\firstmavenproject\\src\\main\\java\\addressbook-csv.txt";
+	public static String ADDRESS_BOOK_CSV="C:\\Users\\HP\\.eclipse\\org.eclipse.tips.state\\firstmavenproject\\contacts.csv";
 	public static void main(String[] args) throws CsvValidationException, IOException, CsvDataTypeMismatchException, CsvRequiredFieldEmptyException {
 		 AddressBook addressBookCsv = new  AddressBook();
 		 addressBookCsv.ReadData();
